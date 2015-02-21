@@ -11,7 +11,9 @@ github_username: fdschneider
 twitter_username: f-d-schneider
 website : http://fdschneider.github.io/
 
+permalink: /:categories/:title.html
 include: [_posts]
+
 # Build settings
 markdown: kramdown
 kramdown:
