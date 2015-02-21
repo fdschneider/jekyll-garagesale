@@ -38,7 +38,7 @@ Stay tuned for more things! I will update this list.
         </div>
 
         <div class="wantthis">
-               <a href="mailto:flo_schneider@web.de?subject=a%20vendre:%20{{post.title | replace ' ', '%20'}}&amp;body={{'Hi Flo,%0D%0AI am interested in your' | replace ' ', '%20'}}%20{{post.title | replace ' ', '%20'}}%20for%20{{post.price | replace ' ', '%20'}}!">Buy this!</a>
+               <a href="mailto:{{site.email}}?subject=a%20vendre:%20{{post.title | replace ' ', '%20'}}&amp;body={{'Hi Flo,%0D%0AI am interested in your' | replace ' ', '%20'}}%20{{post.title | replace ' ', '%20'}}%20for%20{{post.price | replace ' ', '%20'}}!">Buy this!</a>
         </div>
 
       <img src="{{ post.images[0] | prepend: site.baseurl | prepend: site.url | prepend: '/_posts/'}} ">

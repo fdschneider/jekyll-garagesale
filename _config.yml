@@ -6,7 +6,7 @@ baseurl: "/jekyll-garagesale" # '/u/4625163/avendre' # leave empty '' if hosted 
 url: "https://fdschneider.github.io" #'https://dl.dropboxusercontent.com' # the base hostname & protocol for your site # "https://dl.dropboxusercontent.com" for Dropbox, "http://username.github.com" for Github
 
 name : Florian Schneider
-email : florian.schneider@univ-montp2.fr
+email : flo_schneider@web.de
 github_username: fdschneider
 twitter_username: f-d-schneider
 website : http://fdschneider.github.io/
@@ -23,4 +23,5 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
+      permalink: /:title
       layout: article
