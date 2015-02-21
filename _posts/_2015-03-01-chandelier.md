@@ -8,7 +8,7 @@ infos:
 categories:
 - light
 images:
-- DSC_0078.jpg
-- DSC_0081.jpg
+- DSC_0078.JPG
+- DSC_0081.JPG
 sold: false
 ---

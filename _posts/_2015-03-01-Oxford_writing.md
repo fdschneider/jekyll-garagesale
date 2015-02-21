@@ -8,6 +8,6 @@ infos:
 categories:
 - book
 images:
-- DSC_0890.jpg
+- DSC_0890.JPG
 sold: false
 ---

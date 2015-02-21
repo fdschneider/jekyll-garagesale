@@ -6,7 +6,7 @@ infos:
 categories:
 - book
 images:
-- DSC_0888.jpg
+- DSC_0888.JPG
 sold: false
 ---
 

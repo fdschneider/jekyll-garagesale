@@ -8,7 +8,7 @@ infos:
 categories:
 -
 images:
-- DSC_0074.jpg
+- DSC_0074.JPG
 sold: false
 ---
 

@@ -8,9 +8,9 @@ infos:
 categories:
 - furniture
 images:
-- DSC_0873.jpg
-- DSC_0870.jpg
-- DSC_0871.jpg
+- DSC_0873.JPG
+- DSC_0870.JPG
+- DSC_0871.JPG
 sold: false
 ---
 
