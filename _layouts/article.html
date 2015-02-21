@@ -1,0 +1,79 @@
+---
+layout: default
+
+---
+
+
+<div class = "header">
+
+<h1> {{ site.title }} </h1>
+
+<div class = "button" style = "float:left; " >
+{% if page.previous %}
+ <a rel = "prev" href="{{ page.previous.url | prepend: site.baseurl }}"> previous &lsaquo; </a>
+{% else %}
+  <span> previous &lsaquo; </span>
+{% endif %}
+</div>
+
+<div class = "button" style = "float:right; " >
+{% if page.next %}
+ <a rel = "next" href="{{ page.next.url | prepend: site.baseurl }}"> &rsaquo; next </a>
+{% else %}
+ <span> &rsaquo; next </span>
+{% endif %}
+</div>
+
+
+<div class = "button" style = "margin:0 auto; width:80px;" >
+ <a rel = "home" href="{{ "/" | prepend: site.baseurl  }}"> back to list </a>
+</div>
+
+
+<div style="clear:both;"></div>
+</div>
+
+
+<div class="article">
+
+   <h1> {{ page.title }}</h1>
+
+   <div class ="description">
+
+   {% if page.infos %}
+   <ul>
+     {% for info in page.infos %}
+     <li> {{ info }} </li>
+     {% endfor %}
+   </ul>
+   {% endif %}
+   <br>
+   {{ content  }}
+   <br>
+   <a href="mailto:flo_schneider@web.de?subject=a%20vendre:%20{{page.title | replace ' ', '%20'}}&amp;body={{'Hi Flo,%0D%0AI am interested in your' | replace ' ', '%20'}}%20{{page.title | replace ' ', '%20'}}%20for%20{{page.price | replace ' ', '%20'}}!">Ask something!</a>
+
+   </div>
+
+
+   <span class="price">{{ page.price }}</span>
+
+
+   <div class = "wantthis">
+   <a href="mailto:flo_schneider@web.de?subject=a%20vendre:%20{{page.title | replace ' ', '%20'}}&amp;body={{'Hi Flo,%0D%0AI am interested in your' | replace ' ', '%20'}}%20{{page.title | replace ' ', '%20'}}%20for%20{{page.price | replace ' ', '%20'}}!">Buy this!</a>
+   </div>
+
+
+  {% if page.sold %}
+      <div class="sold"><span>SOLD!</span></div>
+  {% endif%}
+
+
+ </div>
+
+<div class = "images">
+{% for image in page.images %}
+
+<img src="{{ image | prepend: site.baseurl | prepend: site.url | prepend: '/_posts/'}} ">
+
+{% endfor %}
+</div>

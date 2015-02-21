@@ -1,0 +1,26 @@
+# Site settings
+title: a vendre / for sale
+destination: ../public/avendre/
+description: My sale of furniture and other things.
+baseurl: # '/u/4625163/avendre' # leave empty '' if hosted directly at domain level, otherwise put sub-domain without an ending dash.
+url: #'https://dl.dropboxusercontent.com' # the base hostname & protocol for your site # "https://dl.dropboxusercontent.com" for Dropbox, "http://username.github.com" for Github
+
+name : Florian Schneider
+email : florian.schneider@univ-montp2.fr
+github_username: fdschneider
+twitter_username: f-d-schneider
+website : http://fdschneider.github.io/
+
+include: "_posts"
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: article

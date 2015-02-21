@@ -1,0 +1,58 @@
+---
+layout: default
+---
+
+
+
+
+<div class = "header">
+
+<h1> {{ site.title }} </h1>
+
+Since I am moving back to Germany soon I want to get rid of some furniture and other things.
+All prices are suggestions. Just make an offer!
+<br>
+Only for pick-up at my place in Montpellier (quartier Les Aubes)! If you're interested just use the 'Buy this!' button to send an <a href = "mailto:flo_schneider@web.de">e-mail</a>. I'll get back to you quickly!
+<br>
+Stay tuned for more things! I will update this list.
+</div>
+
+
+<div class="home">
+
+    {% for post in site.posts %}
+     <div class="item">
+
+        <h2> {{ post.title }}</h2>
+
+        <p class="price">{{ post.price }}</p>
+
+        <div class ="description">
+        {% if post.infos %}
+        <ul>
+          {% for info in post.infos %}
+          <li> {{ info }} </li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+        </div>
+
+        <div class="wantthis">
+               <a href="mailto:flo_schneider@web.de?subject=a%20vendre:%20{{post.title | replace ' ', '%20'}}&amp;body={{'Hi Flo,%0D%0AI am interested in your' | replace ' ', '%20'}}%20{{post.title | replace ' ', '%20'}}%20for%20{{post.price | replace ' ', '%20'}}!">Buy this!</a>
+        </div>
+
+      <img src="{{ post.images[0] | prepend: site.baseurl | prepend: site.url | prepend: '/_posts/'}} ">
+
+      <div class = "post-link"><a href="{{ post.url | prepend: site.baseurl }}"></a>
+      </div>
+
+      {% if post.sold %}
+      <div class="sold"><span>SOLD!</span></div>
+      {% endif%}
+
+      </div>
+
+    {% endfor %}
+
+
+</div>
