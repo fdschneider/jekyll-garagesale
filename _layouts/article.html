@@ -72,7 +72,7 @@ layout: default
 <div class = "images">
 {% for image in page.images %}
 
-<img src="{{ image | prepend: '/_posts/' | prepend: site.baseurl | prepend: site.url }} ">
+<img src="{{ image | prepend: '/_images/' | prepend: site.baseurl | prepend: site.url }} ">
 
 {% endfor %}
 </div>

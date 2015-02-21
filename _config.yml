@@ -12,7 +12,7 @@ twitter_username: f-d-schneider
 website : http://fdschneider.github.io/
 
 permalink: /:categories/:title.html
-include: [_posts]
+include: [_posts, _images]
 
 # Build settings
 markdown: kramdown
