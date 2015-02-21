@@ -2,7 +2,7 @@
 title: a vendre / for sale
 destination: ../public/avendre/
 description: My sale of furniture and other things.
-baseurl: "jekyll-garagesale" # '/u/4625163/avendre' # leave empty '' if hosted directly at domain level, otherwise put sub-domain without an ending dash.
+baseurl: "/jekyll-garagesale" # '/u/4625163/avendre' # leave empty '' if hosted directly at domain level, otherwise put sub-domain without an ending dash.
 url: "http://fdschneider.github.io" #'https://dl.dropboxusercontent.com' # the base hostname & protocol for your site # "https://dl.dropboxusercontent.com" for Dropbox, "http://username.github.com" for Github
 
 name : Florian Schneider

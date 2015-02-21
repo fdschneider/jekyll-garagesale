@@ -10,7 +10,7 @@ layout: default
 
 <div class = "button" style = "float:left; " >
 {% if page.previous %}
- <a rel = "prev" href="{{ page.previous.url | prepend: site.baseurl }}"> previous &lsaquo; </a>
+ <a rel = "prev" href="{{ page.previous.url  | prepend: site.baseurl | prepend: site.url  }}"> previous &lsaquo; </a>
 {% else %}
   <span> previous &lsaquo; </span>
 {% endif %}
@@ -18,7 +18,7 @@ layout: default
 
 <div class = "button" style = "float:right; " >
 {% if page.next %}
- <a rel = "next" href="{{ page.next.url | prepend: site.baseurl }}"> &rsaquo; next </a>
+ <a rel = "next" href="{{ page.next.url  | prepend: site.baseurl | prepend: site.url  }}"> &rsaquo; next </a>
 {% else %}
  <span> &rsaquo; next </span>
 {% endif %}
@@ -26,7 +26,7 @@ layout: default
 
 
 <div class = "button" style = "margin:0 auto; width:80px;" >
- <a rel = "home" href="{{ "/" | prepend: site.baseurl  }}"> back to list </a>
+ <a rel = "home" href="{{ "/"  | prepend: site.baseurl | prepend: site.url   }}"> back to list </a>
 </div>
 
 
