@@ -1,6 +1,6 @@
 ---
 title: The Greatest Show on Earth
-price: €2,-
+price: €3,-
 infos:  
 - by Richard Dawkins
 - hardcover, illustrated

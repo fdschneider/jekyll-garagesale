@@ -1,6 +1,6 @@
 ---
 title: The Travel Book
-price: €3,-
+price: €5,-
 infos:  
 - 'by lonely planet'
 - 'a double facing page for every country in the world'

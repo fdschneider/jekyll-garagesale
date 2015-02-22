@@ -1,6 +1,6 @@
 ---
 title: Media Shelf (IKEA)
-price: €35,-
+price: €45,-
 infos:
 - 'dimensions: 160cm high x 150 wide x 15cm deep'
 - 'holds up to 1000 CDs/450 DVDs and Blurays/300 paperback books'
@@ -16,4 +16,4 @@ sold: false
 
 This shelf provides an efficient space for all your disks and paperback books and hides them elegantly behind the white sliding doors.
 
-There are some minor scratches, but all in all it's in a good shape.
+There are some minor scratches, but all in all it's in a good state.

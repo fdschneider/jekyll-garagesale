@@ -2,8 +2,8 @@
 title: Washing Mashine Bauknecht
 price: €75,-
 infos:
-- '1400/6 Silence'
-- 'Volume: 1--6kg'
+- 'Excellence 1400/6 Silence'
+- 'Volume: 1-6kg'
 - 'German quality'
 categories:
 -
