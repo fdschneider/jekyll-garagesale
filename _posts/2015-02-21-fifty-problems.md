@@ -7,7 +7,7 @@ categories:
 - book
 images:
 - DSC_0888.JPG
-sold: false
+sold: true
 ---
 
 Can you solve the problem of "The Unfair Subway?"
