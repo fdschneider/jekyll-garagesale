@@ -6,14 +6,13 @@ infos:
 - 'Volume: 1-6kg'
 - 'German quality'
 categories:
--
 images:
 - DSC_0074.JPG
 sold: false
 ---
 
 A high quality washing mashine with several programs.
-Caution: The *labels are in german!*
+Caution: The **labels are in german** but I happily provide a french-german dictionary along with it.
 The door handle is missing, but it can still be opened quite easily.
 
-*available from 20.04.2015!*
+*available only after 20.04.2015!*
