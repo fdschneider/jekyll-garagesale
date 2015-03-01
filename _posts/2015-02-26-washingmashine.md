@@ -8,9 +8,10 @@ infos:
 categories:
 images:
 - DSC_0074.JPG
-sold: false
+sold: sold
 ---
 
+dimenions: 59.5cm wide x 60cm deep x 70cm high
 A high quality washing mashine with several programs.
 Caution: The **labels are in german** but I happily provide a french-german dictionary along with it.
 The door handle is missing, but it can still be opened quite easily.

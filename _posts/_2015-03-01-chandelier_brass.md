@@ -12,3 +12,6 @@ images:
 - DSC_0085.JPG
 sold: false
 ---
+
+
+*buy now, but available only after 20.04.2015*
