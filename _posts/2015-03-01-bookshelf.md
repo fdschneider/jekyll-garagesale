@@ -6,12 +6,12 @@ infos:
 categories:
 - furniture
 images:
-- DSC_0123.JPG
 - DSC_0128.JPG
+- DSC_0123.JPG
 sold: false
 ---
 
 solid wood (fir) and quite robust. Quite some marks of usage.
 
 
-*available only after 20.04.2015*
+*available only after 22.03.2015!*
