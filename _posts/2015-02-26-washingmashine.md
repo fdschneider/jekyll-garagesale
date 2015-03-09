@@ -1,6 +1,6 @@
 ---
 title: Washing Mashine Bauknecht
-price: €75,-
+price: €60,-
 infos:
 - 'Excellence 1400/6 Silence'
 - 'Volume: 1-6kg'
@@ -11,9 +11,10 @@ images:
 sold: sold
 ---
 
-dimenions: 59.5cm wide x 60cm deep x 70cm high
+dimensions: 59.5cm wide x 60cm deep x 70cm high
+
 A high quality washing mashine with several programs.
 Caution: The **labels are in german** but I happily provide a french-german dictionary along with it.
-The door handle is missing, but it can still be opened quite easily.
+The door handle is missing, but it can still be opened quite easily (I did that for years now).
 
-*available only after 20.04.2015!*
+*I will still need it until 20.04.2015!*

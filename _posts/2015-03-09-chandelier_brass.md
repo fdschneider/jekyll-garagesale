@@ -1,6 +1,6 @@
 ---
 title: Brass chandelier
-price: €15,-
+price: €20,-
 infos:
 - 'material: metal'
 - 'equiped with warm LED candles'
@@ -13,5 +13,6 @@ images:
 sold: false
 ---
 
+Low energy consumption LED lamps with extremely long lifespan. 
 
-*buy now, but available only after 20.04.2015*
+*reserve now, but available only after 20.04.2015*
