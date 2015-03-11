@@ -1,6 +1,6 @@
 ---
 title: Eating animals
-price: €2,-
+price: €1,-
 infos:  
 - by Jonathan Safran Foer
 categories:
