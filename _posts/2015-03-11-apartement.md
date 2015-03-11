@@ -18,7 +18,7 @@ images:
 sold: false
 ---
 
-### for rent
+## for rent
 
 Spacious and very sunny apartment with two balconies on the third floor. It has two bedrooms and an open living room connected to the fully equipped kitchen. Situated in a quiet area just five minutes from Corum (quartier 'les Aubes', Rue des Piverts).
 The next tram stop (tram 4, 'les Aubes') is just 300m away.
@@ -29,7 +29,7 @@ If you are interested, klick on the 'buy' button and I will forward your request
 
 ---
 
-### a louer
+## a louer
 
 grande appartement T3 avec deux balcons ensoleillés au troisiemme étage. Deux chambres et une grande salle de sejour, connecter à la cuisine. Tres calme dans le quartier 'Les Aubes' (Rue des Piverts, 5 min au Corum, 300 m à l'arrêt du tram 4).
 
