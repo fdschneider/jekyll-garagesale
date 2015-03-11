@@ -1,5 +1,5 @@
 ---
-title: for rent/a louer: Appartement T3
+title: 'for rent/a louer: Appartement T3'
 price: €750,-  
 infos:
 - '65m²'
