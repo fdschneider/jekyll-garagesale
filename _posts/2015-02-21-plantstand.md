@@ -8,5 +8,5 @@ categories:
 - furniture
 images:
 - 20150131_0700.JPG
-sold: false
+sold: true
 ---
