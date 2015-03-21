@@ -8,7 +8,8 @@ categories:
 images:
 - DSC_0128.JPG
 - DSC_0123.JPG
-sold: false
+sold: true
+buyer: Clara
 ---
 
 solid wood (fir) and quite robust. Quite some marks of usage.

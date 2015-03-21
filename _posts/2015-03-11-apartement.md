@@ -1,6 +1,6 @@
 ---
 title: 'for rent/a louer: Appartement T3'
-price: €750,-  
+price: €750,-/mois
 infos:
 - '65m²'
 - 'quartier les Aubes, 5 min de Corum'
