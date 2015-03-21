@@ -17,7 +17,6 @@ body {
     margin: 0 auto 0 auto;
     font-family: $base-font-family;
     font-size: $base-font-size;
-    font-weight: 300;
     line-height: $base-line-height;
     color: $text-color;
     background-color: $background-color;
@@ -35,6 +34,10 @@ h2 {
   top: 1em;
   left: 2em;
 
+}
+
+strong {
+  font-weight: 700;
 }
 
 hr {
