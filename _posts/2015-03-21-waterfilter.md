@@ -11,5 +11,6 @@ images:
 sold: false
 ---
 
+**without cartouches!**
 
 *reserve now, but available only after 20.04.2015*
