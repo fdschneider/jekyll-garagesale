@@ -2,7 +2,7 @@
 title: Brita water filter
 price: €5,-
 infos:
-- 'holds 1.5 litre'
+- 'holds 1.0 litre'
 - 'for Maxtra cartouche'
 categories:
 - kitchen
