@@ -4,6 +4,7 @@ price: €3,-
 infos:  
 - 'carte de randonnée'
 - '1:75.000'
+- 'with 1:25.000 detail zooms'
 categories:
 - book
 images:

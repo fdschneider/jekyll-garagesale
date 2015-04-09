@@ -1,6 +1,6 @@
 ---
 title: The Song of Ice and Fire
-price: €10,-
+price: €15,-
 infos:  
 - 'paperback'
 - 'by George R.R. Martin'
