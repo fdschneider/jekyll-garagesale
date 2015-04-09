@@ -11,7 +11,7 @@ images:
 - DSC_0201.JPG
 - DSC_0206.JPG
 - DSC_0202.JPG
-sold: false
+sold: true
 ---
 
 Trouble getting out of bed in the morning? Try this alarm clock. It simulates sunrise starting half an hour before your set time. If you are sensitive to it, you will wake up at the time your body choses to.
