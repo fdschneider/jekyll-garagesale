@@ -7,5 +7,5 @@ categories:
 - book
 images:
 - DSC_0886.JPG
-sold: false
+sold: true
 ---

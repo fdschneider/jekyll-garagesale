@@ -8,5 +8,5 @@ categories:
 - balcon
 images:
 - DSC_0208.JPG
-sold: false
+sold: true
 ---
