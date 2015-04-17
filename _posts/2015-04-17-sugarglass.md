@@ -1,5 +1,5 @@
 ---
-title: Suger glass
+title: Sugar glass
 price: €5,-
 infos:
 - 'handmade glass'
