@@ -9,7 +9,7 @@ infos:
 categories:
 images:
 - DSC_0074.JPG
-sold: false
+sold: true
 ---
 
 dimensions: 59.5cm wide x 60cm deep x 70cm high
